@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CarApp</string>
+    <string name="enter_mark_of_the_car">Enter mark of the car</string>
+    <string name="enter_model_of_the_car">Enter model of the car</string>
+    <string name="save">Save</string>
+    <string name="delete">delete</string>
+</resources>
